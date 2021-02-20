@@ -3,3 +3,5 @@
 [https://foxbms.org](https://foxbms.org)
 
 The starting point to get foxBMS is the foxBMS repository at https://github.com/foxBMS/foxbms, which contains all files for the foxBMS project.
+
+![Open Hardware](https://foxbms.org/wp-content/uploads/2018/07/foxBMS_Master_and_Slave_Overview.jpg)
